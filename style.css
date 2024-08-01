@@ -117,6 +117,7 @@
   
   .done{
     background:rgba(194, 255, 194, 0.555);
+      text-decoration-line:line-through;
   }
   
   .fas.fa-trash-alt{
